@@ -1,0 +1,17 @@
+title: 高雄市路竹區大社國民小學1965級愛信義班畢業同學會
+description: 本站使用 Jekyll Doc Theme 製作，部署於 GitHub Pages。
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+
+baseurl: "" # 如果你的網址是 username.github.io 就留空
+url: "https://你的帳號.github.io"
+
+plugins:
+  - jekyll-seo-tag
+
+navbar:
+  - name: 首頁
+    link: /
+  - name: 關於我們
+    link: /about/
+  - name: 同學名單
+    link: /classmates/
